@@ -1,4 +1,4 @@
-# Stargazer Auth Demo 🔥
+# android-firebase-first-steps 🔥
 
 My first exploration into Firebase Authentication, built with modern Android development tools. This project represents my initial steps in learning mobile app development with Firebase integration.
 
